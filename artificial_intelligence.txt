@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) refers to computer systems that can perform
+tasks that normally require human intelligence. These tasks include
+learning from data, recognizing patterns, understanding language, and
+making decisions. AI is widely used in modern applications such as
+recommendation systems, voice assistants, autonomous vehicles, and
+medical diagnostics. Machine learning is one of the most important
+subfields of AI, where algorithms learn patterns from large datasets.
