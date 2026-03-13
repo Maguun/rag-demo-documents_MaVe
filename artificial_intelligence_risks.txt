@@ -1,5 +1,0 @@
-Despite its many benefits, artificial intelligence also raises concerns.
-Some experts worry that automation could replace certain jobs. Others
-highlight ethical issues such as bias in algorithms and lack of
-transparency in decision-making. Responsible development of AI requires
-monitoring, regulation, and careful design.
