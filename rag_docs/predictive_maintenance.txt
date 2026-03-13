@@ -1,0 +1,5 @@
+Predictive maintenance is used in industry to predict when equipment
+failures might occur. By analyzing sensor data and historical
+maintenance information, companies can detect early signs of machine
+wear. This allows maintenance to be scheduled before a failure happens,
+reducing downtime and lowering costs.

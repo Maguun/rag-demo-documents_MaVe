@@ -1,0 +1,7 @@
+Machine learning is a method of teaching computers to learn from data
+without being explicitly programmed. Algorithms analyze training data
+and identify patterns that can later be used to make predictions. There
+are several types of machine learning, including supervised learning,
+unsupervised learning, and reinforcement learning. Machine learning is
+widely used in image recognition, fraud detection, and predictive
+analytics.
